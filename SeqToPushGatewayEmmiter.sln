@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeqToPushGatewayEmmiter", "SeqToPushGatewayEmmiter.csproj", "{E86786D8-44AA-4535-8356-80CF667DD3FB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3227B6A5-DCC2-47EF-9458-B6528A7C9274}"
+	ProjectSection(SolutionItems) = preProject
+		License.txt = License.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E86786D8-44AA-4535-8356-80CF667DD3FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E86786D8-44AA-4535-8356-80CF667DD3FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E86786D8-44AA-4535-8356-80CF667DD3FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E86786D8-44AA-4535-8356-80CF667DD3FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BA28DF3-635C-47F4-8DBB-A41C7FDF2C0E}
+	EndGlobalSection
+EndGlobal

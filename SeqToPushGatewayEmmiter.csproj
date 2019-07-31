@@ -2,12 +2,25 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageLicenseFile>License.txt</PackageLicenseFile>
+    <PackageProjectUrl>https://github.com/amitxagarwal/SeqToPushGatewayEmmiter</PackageProjectUrl>
+    <PackageIconUrl>https://github.com/amitxagarwal/SeqToPushGatewayEmmiter</PackageIconUrl>
+    <RepositoryUrl>https://github.com/amitxagarwal/SeqToPushGatewayEmmiter</RepositoryUrl>
+    <PackageReleaseNotes>hello</PackageReleaseNotes>
+    <Description>SeqToPushGatewayEmmiter</Description>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Prometheus.Client" Version="3.0.1" />
     <PackageReference Include="Prometheus.Client.MetricPusher" Version="1.0.1" />
     <PackageReference Include="Seq.Apps" Version="5.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="License.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>

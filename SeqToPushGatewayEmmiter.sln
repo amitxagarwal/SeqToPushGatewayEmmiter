@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeqToPushGatewayEmmiter", "SeqToPushGatewayEmmiter.csproj", "{E86786D8-44AA-4535-8356-80CF667DD3FB}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3227B6A5-DCC2-47EF-9458-B6528A7C9274}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4595EF9C-8AE6-41D1-8470-673DB4848F21}"
 	ProjectSection(SolutionItems) = preProject
 		License.txt = License.txt
 	EndProjectSection

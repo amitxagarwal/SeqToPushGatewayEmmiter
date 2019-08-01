@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>SeqToPushGatewayEmmiter</id>
-    <version>1.0.4</version>
+    <version>1.0.5</version>
     <title>SeqToPushGatewayEmmiter</title>
     <authors>Amit Agarwal</authors>
     <owners>Amit Agarwal</owners>
@@ -18,5 +18,9 @@
   <files>
 <file src="C:\Users\aa00573022\.nuget\packages\prometheus.client.metricpusher\1.0.1\lib\netstandard2.0\Prometheus.Client.MetricPusher.dll" target="lib\netstandard2.0" />
 <file src="C:\Users\aa00573022\.nuget\packages\prometheus.client\3.0.1\lib\netstandard2.0\Prometheus.Client.dll" target="lib\netstandard2.0" />
+<file src="C:\Users\aa00573022\.nuget\packages\system.buffers\4.5.0\lib\netstandard2.0\System.Buffers.dll" target="lib\netstandard2.0"/>
+<file src="C:\Users\aa00573022\.nuget\packages\system.memory\4.5.2\lib\netstandard2.0\System.Memory.dll" target="lib\netstandard2.0"/>
+<file src="C:\Users\aa00573022\.nuget\packages\system.numerics.vectors\4.4.0\lib\netstandard2.0\System.Numerics.Vectors.dll"    target="lib\netstandard2.0"/>
+<file src="C:\Users\aa00573022\.nuget\packages\system.runtime.compilerservices.unsafe\4.5.2\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll" target="lib\netstandard2.0"/>
 </files>
 </package>
